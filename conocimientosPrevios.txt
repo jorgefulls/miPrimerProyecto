@@ -1,0 +1,3 @@
+- Sé programar en Python
+- Tengo conocimientos de Linux
+- Tengo conocimientos de Oracle

@@ -1,1 +1,2 @@
 Objetivo Nº 1: Aprender Git.
+Objetivo Nº 2: Manejarme con herramientas complementarias (Gitkraken).

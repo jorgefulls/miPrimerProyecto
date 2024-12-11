@@ -1,1 +1,2 @@
 - Sé programar en Python
+- Tengo conocimientos de Linux

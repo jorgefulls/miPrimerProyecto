@@ -1,0 +1,3 @@
+Objetivo Nº 1: Aprender Git.
+Objetivo Nº 2: Manejarme con herramientas complementarias (Gitkraken).
+Objetivo Nº 3: Automatizar la gestión de versiones de mis trabajos.
